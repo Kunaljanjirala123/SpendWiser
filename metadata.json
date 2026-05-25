@@ -1,0 +1,6 @@
+{
+  "name": "AI Expense Tracker",
+  "description": "An AI-powered expense tracking app with budget forecasting, receipt scanning, and automatic category prediction using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
